@@ -637,4 +637,124 @@ main {
     letter-spacing: 0.2px;
     color: #FFFFFF;
 }
+
+.information {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px;
+    width: 1080px;
+    height: 500px;
+    text-align: left;
+    margin: 50px 0px 0px 194px;
+}
+  
+.inf1 {
+    width: calc(100% / 2);
+    margin: 0px 0px 165px 0px;
+}
+  
+.inf2 {
+    width: calc(100% / 3);
+    margin: 0px 0px 165px 0px;
+}
+  
+#inform-photo {
+    margin: 100px 0px 165px 0px;
+}
+  
+.inform-title-main {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin: 21px 0px 11px 0px;
+}
+  
+.inform-title-expl {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin: 1px 0px 15px 0px;
+}
+  
+.inform1 {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0px;
+    height: 100px;
+    width: 400px;
+    margin-top: 50px;
+    margin-bottom: 8px;
+}
+  
+.inform2 {
+    display: flex;
+    justify-content: flex-start;
+    padding: 0px;
+    height: 100px;
+    width: 400px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+  
+.inf-location {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 30px 20px 0px;
+}
+  
+.inform-pg {
+    margin: 0px 0px 0px 0px;
+}
+  
+.inform1 h5{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+    margin: 0px 0px 0px 23px;
+}
+  
+.inform1 h6 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin: 5px 0px 0px 22px;
+}
+  
+.inform2 h5 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+    margin: 0px 0px 0px 22px;
+}
+  
+.inform2 h6 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin: 5px 0px 15px 22px;
+}
   
