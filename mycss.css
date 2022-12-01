@@ -757,4 +757,46 @@ main {
     color: #FFFFFF;
     margin: 5px 0px 15px 22px;
 }
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    width: 1067px;
+    height: 146px;
+    text-align: left;
+    margin: 128px 0px 0px 220px;
+    flex-wrap: wrap;
+}
+  
+.ic1 {
+    width: calc(100% / 7);
+    margin: 0px 0px 150px 0px;
+}
+  
+.ic2 {
+    width: calc(100% / 7);
+    margin: 0px 0px 150px 18px;
+}
+  
+.ic3 {
+    width: calc(100% / 7);
+    margin: 0px 10px 150px 0px;
+}
+  
+.ic4 {
+    width: calc(100% / 7);
+    margin: 0px 10px 150px 0px;
+}
+  
+.ic5 {
+    width: calc(100% / 7);
+    margin: 0px 25px 150px 0px;
+}
+  
+.ic6 {
+    width: calc(100% / 7);
+    margin: 0px 0px 150px 0px;
+}
   
