@@ -605,4 +605,36 @@ main {
     background-color: #FFFFFF;
     margin-top: 0px;
 }
+
+.text3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 700px;
+    height: 200px;
+    text-align: center;
+    margin: 111px 470px 0px 370px;
+}
+  
+.text3 h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin: 0px 0px 0px 0px;
+}
+  
+.text-ex3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
   
