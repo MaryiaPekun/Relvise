@@ -487,4 +487,36 @@ main {
     color: #737373;
     margin: 0px 20px 20px 23px;
 }
+
+.text2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    height: 190px;
+    text-align: center;
+    margin: 167px 470px 0px 470px;
+}
+  
+.text2 h2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+    margin: 10px 0px 0px 0px;
+}
+  
+.text-ex2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
   
