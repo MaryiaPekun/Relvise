@@ -36,3 +36,71 @@
 html {
     width: 1440px;
 }
+
+header {
+    background: url("assets/img/cover.jpg");
+    background-repeat: no-repeat;
+    background-color: #252B42;
+}
+  
+.navigation {
+    display: flex;
+    align-items: center;
+    width: 1350px;
+    height: 104px;
+    margin: 0 auto;
+}
+  
+.brand {
+    width: 187px;
+    height: 32px;
+    text-align: left;
+    margin-left: 150px;
+}
+  
+.brand h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #FFFFFF;
+}
+  
+.menu {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 548px;
+    margin-right: 30px;
+    width: 670px;
+    height: 24px;
+}
+  
+.menu a {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+}
+  
+#search {
+    margin-right: 22px;
+    margin-top: 5px;
+}
+  
+#basket {
+    margin-right: 139px;
+    margin-top: 5px;
+}
+  
+#toggler {
+    margin-right: 15px;
+    margin-top: 5px;
+}
+  
